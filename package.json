@@ -1,0 +1,14 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "A TypeScript Express authentication module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Philippe Coratti",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
