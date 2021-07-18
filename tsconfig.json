@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "baseUrl": "src",
+    "sourceMap": true,
+    "paths": {
+        "@controller/*": ["controller/*"],
+        "@repository/*": ["repository/*"],
+        "@types/*":["types/*"],
+        "@test/*": ["test/*"]
+    }
+  },
+  "include": ["src/**/*"]
+}
