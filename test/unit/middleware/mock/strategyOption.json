@@ -1,0 +1,6 @@
+{
+      "client_id":"someClientId",
+      "clientSecret": "someClient_secret",
+      "redirect_uri": "someRedirect_uri"
+
+    }
